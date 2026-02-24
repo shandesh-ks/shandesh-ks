@@ -1,6 +1,6 @@
 👋 Hi, I’m @shandesh-ks
 
-💻 I’m a Web Developer with 3 years of experience specializing in Ruby on Rails backend development
+💻 I’m a Web Developer with 3.5+ years of experience specializing in Ruby on Rails backend development
 
 ⚡ Skilled in Ruby on Rails, MySQL, APIs, and backend architecture
 
