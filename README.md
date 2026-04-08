@@ -1,14 +1,14 @@
-👋 Hi, I’m @shandesh-ks
+Shandesh K S
 
-💻 I’m a Web Developer with 3.6+ years of experience specializing in Ruby on Rails backend development
+I am a Web Developer with over 3.6 years of experience, specializing in backend development using Ruby on Rails. I have a strong focus on building scalable, reliable, and maintainable applications.
 
-⚡ Skilled in Ruby on Rails, MySQL, APIs, and backend architecture
+I have hands-on experience in Ruby on Rails, MySQL, RESTful APIs, and backend system design. I am experienced in developing and optimizing server-side logic, improving application performance, and ensuring code quality.
 
-🌱 Currently exploring React to strengthen my full-stack development skills
+Currently, I am expanding my skill set by learning React to strengthen my full-stack development capabilities.
 
-🤝 Open to collaborating on scalable web applications, API integrations, and backend optimization projects
+I am open to collaborating on web application development, API integrations, and backend optimization projects.
 
-📫 Reach me at: shandeshks@gmail.com
+Contact: shandeshks@gmail.com
 
 <!---
 shandesh-ks/shandesh-ks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
